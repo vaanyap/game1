@@ -6,3 +6,5 @@ We must avoid all the obstacles the monkey throws at us by using the arrow keys 
 
 <img width="792" alt="Screen Shot 2021-07-05 at 2 48 13 PM" src="https://user-images.githubusercontent.com/71617367/124509471-0860ce80-dda0-11eb-858a-e981ca1e0894.png">
 
+Try it for yourself:
+https://vaanyap.github.io/game1/
